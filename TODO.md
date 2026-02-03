@@ -1,0 +1,2 @@
+- [x] Fix import path in app.spec.ts from './app' to './app.component'
+- [x] Add h1 element with 'Hello, adet-fe-bsti21' to app.html
